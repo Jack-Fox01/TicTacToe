@@ -1,5 +1,8 @@
 🕹️ Tic-Tac-Toe in Java (Swing GUI)
 A simple 2-player Tic-Tac-Toe game built using Java and Swing. This project features a graphical interface, user interaction, and basic game logic such as win and tie conditions.
+<img width="1002" alt="BlankState" src="https://github.com/user-attachments/assets/20ac36f0-e381-425c-97a7-9c7fd6945a0f" />
+<img width="998" alt="Tie" src="https://github.com/user-attachments/assets/4552c7dd-95ec-4325-a75d-1b9d13e35a6a" />
+<img width="1002" alt="Win" src="https://github.com/user-attachments/assets/6817d93e-5541-4480-9a3d-37b9a17db089" />
 
 🚀 Features
 - Two-player gameplay: X and O alternate turns
